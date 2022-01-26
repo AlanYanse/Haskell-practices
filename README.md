@@ -2,13 +2,13 @@
 
 ## This repository contains some exercises and code samples about Haskell programming language. 
 
-### For execute and compile this, you must have the Glasgow Compiler installed.
+#### For execute and compile this, you must have the Glasgow Compiler installed.
 
 https://www.haskell.org/ghc/
 
 <br>
 
-### And then... then...
+#### And then... then...
 
 <br>
 
@@ -35,7 +35,7 @@ in BASH:
 
 ```
 
-## ... fin ...
+#### ... fin ...
 
 
 
