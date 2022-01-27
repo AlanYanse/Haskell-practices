@@ -116,6 +116,15 @@ main = print ('c' `elem` listaDeLista!!1)
 
 
 
+listaDeLista = ["ab", "cd"]
+
+main = print ('c' `elem` listaDeLista!!1)
+
+
+-- output
+--true
+
+
 
 
 
